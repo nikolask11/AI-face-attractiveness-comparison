@@ -63,5 +63,5 @@ NVIDIA T4 (16GB VRAM)
 
 ~10GB
 
-#Implementation
+# Implementation
 Open a new colab notebook and paste each of the cells in and run. I recommend running cells 1-7 on a CPU, and save the results on drive, and then running the rest on a GPU runtime. After generating the images, run the data analysis script with images. 
